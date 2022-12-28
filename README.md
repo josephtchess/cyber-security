@@ -1,6 +1,6 @@
 # cyber-security
 bandit0 - how to use ssh:
-	-p flag changes port
+	-p flag changes port, takes port number as param
 	format-> ssh FLAG FLAG_PARAMETER username@server
 
 bandit0-1 - cat a README
